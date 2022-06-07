@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuyApi.bestBuyTest.UtilitiesTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 21.473 sec <<< FAILURE! - in com.bestbuyApi.bestBuyTest.UtilitiesTest
+test001(com.bestbuyApi.bestBuyTest.UtilitiesTest)  Time elapsed: 14.202 sec  <<< ERROR!
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+	at com.bestbuyApi.bestBuyTest.UtilitiesTest.test001(UtilitiesTest.java:23)
+

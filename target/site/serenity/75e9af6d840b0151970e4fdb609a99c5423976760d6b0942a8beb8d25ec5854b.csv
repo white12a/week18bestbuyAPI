@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Products test","This will get all products list","SUCCESS","2022-06-07T20:52:18.759+01:00[Europe/London]","0.0","0.85"
+"Products test","This will create a new product","SUCCESS","2022-06-07T20:52:19.613+01:00[Europe/London]","0.0","0.78"
+"Products test","verify if Product is created","SUCCESS","2022-06-07T20:52:20.389+01:00[Europe/London]","0.0","0.05"
+"Products test","Update the product information and verify the updated information","SUCCESS","2022-06-07T20:52:20.436+01:00[Europe/London]","0.0","0.13"
+"Products test","Delete the product and verify if the product is deleted","SUCCESS","2022-06-07T20:52:20.567+01:00[Europe/London]","0.0","0.09"

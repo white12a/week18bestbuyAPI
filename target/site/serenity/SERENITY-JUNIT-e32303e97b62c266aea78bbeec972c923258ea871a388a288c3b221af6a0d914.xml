@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.bestbuyApi.bestBuyTest.UtilitiesTest" skipped="0" tests="2" time="16.3" timestamp="2022-06-07T20:52:00.194+01:00[Europe/London]"><testcase classname="com.bestbuyApi.bestBuyTest.UtilitiesTest" name="This will get the utilities version"><error message="java.lang.String cannot be cast to java.util.HashMap" type="java.lang.ClassCastException">java.lang.String cannot be cast to java.util.HashMap</error><system-err>java.lang.String cannot be cast to java.util.HashMap&#13;
+com.bestbuyApi.bestBuyTest.UtilitiesTest.test001(UtilitiesTest.java:23)&#13;
+</system-err></testcase><testcase classname="com.bestbuyApi.bestBuyTest.UtilitiesTest" name="This will get the utilities healthcheck"/></testsuite>

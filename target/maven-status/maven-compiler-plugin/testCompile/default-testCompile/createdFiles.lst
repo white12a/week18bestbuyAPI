@@ -1,0 +1,6 @@
+resources\testbase\TestBase.class
+com\bestbuyApi\bestBuyTest\CategoriesTest.class
+com\bestbuyApi\bestBuyTest\StoresTest.class
+com\bestbuyApi\bestBuyTest\ProductsTest.class
+com\bestbuyApi\bestBuyTest\ServicesTest.class
+com\bestbuyApi\bestBuyTest\UtilitiesTest.class
